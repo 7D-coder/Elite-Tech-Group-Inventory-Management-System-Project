@@ -14,7 +14,7 @@ if he doesn't have that much quantity in the  store then print "This product is 
 else calculate the amount and show  user the BILL.
 
 example like this
-       
+
 ************************************
            Final Bill               
 Product:  Cheese
@@ -24,7 +24,8 @@ Manufacturing date:  2021-08-19
 Amount:  1500
         Thanks for shopping         
 ************************************
-and then the detail of that BILL will store in sell_til_now.json file.
+    
+ and then the detail of that BILL will stored in sell_til_now.json file.
 
 If he enters 2 to Add item in record
 then he will be asked to enter Bar code of that product , quantity of prodct and if this product allready exits in our record then that much quantity of product will be get added in record.
