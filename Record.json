@@ -1,0 +1,572 @@
+{
+    "12201": {
+        "name": "Milk",
+        "price": 100,
+        "quantity": 190,
+        "exp": [
+            2021,
+            10,
+            29
+        ],
+        "manuf": [
+            2018,
+            8,
+            19
+        ]
+    },
+    "12202": {
+        "name": "Oily Fish",
+        "price": 200,
+        "quantity": 30,
+        "exp": [
+            2021,
+            9,
+            8
+        ],
+        "manuf": [
+            2021,
+            9,
+            6
+        ]
+    },
+    "12203": {
+        "name": "Chopped tomatoes",
+        "price": 90,
+        "quantity": 165,
+        "exp": [
+            2021,
+            12,
+            2
+        ],
+        "manuf": [
+            2020,
+            8,
+            19
+        ]
+    },
+    "12204": {
+        "name": "Soup",
+        "price": 100,
+        "quantity": 27,
+        "exp": [
+            2021,
+            10,
+            9
+        ],
+        "manuf": [
+            2020,
+            12,
+            19
+        ]
+    },
+    "12205": {
+        "name": "seeds",
+        "price": 120,
+        "quantity": 230,
+        "exp": [
+            2022,
+            10,
+            29
+        ],
+        "manuf": [
+            2018,
+            8,
+            19
+        ]
+    },
+    "12206": {
+        "name": "Pasta",
+        "price": 50,
+        "quantity": 30,
+        "exp": [
+            2021,
+            9,
+            2
+        ],
+        "manuf": [
+            2019,
+            8,
+            1
+        ]
+    },
+    "12207": {
+        "name": "Bread",
+        "price": 20,
+        "quantity": 50,
+        "exp": [
+            2021,
+            9,
+            16
+        ],
+        "manuf": [
+            2021,
+            9,
+            5
+        ]
+    },
+    "12208": {
+        "name": "Rice",
+        "price": 80,
+        "quantity": 20,
+        "exp": [
+            2021,
+            10,
+            3
+        ],
+        "manuf": [
+            2018,
+            2,
+            10
+        ]
+    },
+    "12209": {
+        "name": "Sugar",
+        "price": 90,
+        "quantity": 23,
+        "exp": [
+            2021,
+            9,
+            29
+        ],
+        "manuf": [
+            2020,
+            4,
+            19
+        ]
+    },
+    "12210": {
+        "name": "Cooking Oil",
+        "price": 100,
+        "quantity": 23,
+        "exp": [
+            2021,
+            11,
+            29
+        ],
+        "manuf": [
+            2020,
+            8,
+            19
+        ]
+    },
+    "12211": {
+        "name": "Eggs",
+        "price": 20,
+        "quantity": 230,
+        "exp": [
+            2021,
+            9,
+            16
+        ],
+        "manuf": [
+            2021,
+            8,
+            29
+        ]
+    },
+    "12212": {
+        "name": "Butter",
+        "price": 120,
+        "quantity": 53,
+        "exp": [
+            2021,
+            10,
+            15
+        ],
+        "manuf": [
+            2021,
+            7,
+            19
+        ]
+    },
+    "12213": {
+        "name": "Cheese",
+        "price": 100,
+        "quantity": 28,
+        "exp": [
+            2021,
+            10,
+            29
+        ],
+        "manuf": [
+            2021,
+            8,
+            19
+        ]
+    },
+    "12214": {
+        "name": "Yogurt",
+        "price": 130,
+        "quantity": 23,
+        "exp": [
+            2021,
+            11,
+            19
+        ],
+        "manuf": [
+            2020,
+            9,
+            19
+        ]
+    },
+    "12215": {
+        "name": "Honey",
+        "price": 140,
+        "quantity": 30,
+        "exp": [
+            2022,
+            1,
+            9
+        ],
+        "manuf": [
+            2021,
+            3,
+            19
+        ]
+    },
+    "12216": {
+        "name": "Stock Cubes",
+        "price": 130,
+        "quantity": 43,
+        "exp": [
+            2022,
+            2,
+            2
+        ],
+        "manuf": [
+            2020,
+            10,
+            5
+        ]
+    },
+    "12217": {
+        "name": "Basil",
+        "price": 90,
+        "quantity": 53,
+        "exp": [
+            2021,
+            10,
+            29
+        ],
+        "manuf": [
+            2019,
+            8,
+            19
+        ]
+    },
+    "12218": {
+        "name": "Vinegar",
+        "price": 120,
+        "quantity": 23,
+        "exp": [
+            2021,
+            11,
+            29
+        ],
+        "manuf": [
+            2021,
+            6,
+            19
+        ]
+    },
+    "12219": {
+        "name": "Oregano",
+        "price": 110,
+        "quantity": 53,
+        "exp": [
+            2021,
+            9,
+            4
+        ],
+        "manuf": [
+            2019,
+            8,
+            19
+        ]
+    },
+    "12220": {
+        "name": "Coriander",
+        "price": 100,
+        "quantity": 33,
+        "exp": [
+            2021,
+            12,
+            4
+        ],
+        "manuf": [
+            2020,
+            8,
+            19
+        ]
+    },
+    "12221": {
+        "name": "Cumin",
+        "price": 110,
+        "quantity": 25,
+        "exp": [
+            2021,
+            10,
+            29
+        ],
+        "manuf": [
+            2021,
+            2,
+            9
+        ]
+    },
+    "12222": {
+        "name": "Porridge oats",
+        "price": 110,
+        "quantity": 22,
+        "exp": [
+            2021,
+            11,
+            6
+        ],
+        "manuf": [
+            2020,
+            7,
+            9
+        ]
+    },
+    "12223": {
+        "name": "flour",
+        "price": 90,
+        "quantity": 63,
+        "exp": [
+            2022,
+            4,
+            29
+        ],
+        "manuf": [
+            2020,
+            8,
+            19
+        ]
+    },
+    "12224": {
+        "name": "Unsweetened granola",
+        "price": 80,
+        "quantity": 43,
+        "exp": [
+            2022,
+            3,
+            5
+        ],
+        "manuf": [
+            2019,
+            8,
+            19
+        ]
+    },
+    "12225": {
+        "name": "Kurkar",
+        "price": 10,
+        "quantity": 117,
+        "exp": [
+            2022,
+            10,
+            29
+        ],
+        "manuf": [
+            2021,
+            8,
+            19
+        ]
+    },
+    "12226": {
+        "name": "Chips",
+        "price": 20,
+        "quantity": 230,
+        "exp": [
+            2022,
+            11,
+            29
+        ],
+        "manuf": [
+            2021,
+            1,
+            1
+        ]
+    },
+    "12227": {
+        "name": "Bingoo",
+        "price": 10,
+        "quantity": 120,
+        "exp": [
+            2022,
+            10,
+            19
+        ],
+        "manuf": [
+            2021,
+            8,
+            9
+        ]
+    },
+    "12228": {
+        "name": "Maggi",
+        "price": 20,
+        "quantity": 250,
+        "exp": [
+            2021,
+            12,
+            19
+        ],
+        "manuf": [
+            2020,
+            8,
+            1
+        ]
+    },
+    "12229": {
+        "name": "Tata Namak",
+        "price": 20,
+        "quantity": 240,
+        "exp": [
+            2022,
+            1,
+            29
+        ],
+        "manuf": [
+            2021,
+            8,
+            9
+        ]
+    },
+    "12230": {
+        "name": "Green lentils",
+        "price": 120,
+        "quantity": 23,
+        "exp": [
+            2022,
+            10,
+            29
+        ],
+        "manuf": [
+            2019,
+            8,
+            19
+        ]
+    },
+    "12231": {
+        "name": "White beans",
+        "price": 90,
+        "quantity": 239,
+        "exp": [
+            2022,
+            10,
+            29
+        ],
+        "manuf": [
+            2021,
+            8,
+            19
+        ]
+    },
+    "12232": {
+        "name": "Red kidney beans",
+        "price": 140,
+        "quantity": 203,
+        "exp": [
+            2021,
+            12,
+            2
+        ],
+        "manuf": [
+            2019,
+            8,
+            19
+        ]
+    },
+    "12233": {
+        "name": "Nuts",
+        "price": 120,
+        "quantity": 250,
+        "exp": [
+            2021,
+            11,
+            2
+        ],
+        "manuf": [
+            2018,
+            8,
+            19
+        ]
+    },
+    "12234": {
+        "name": "Luncheon meat",
+        "price": 150,
+        "quantity": 23,
+        "exp": [
+            2021,
+            9,
+            5
+        ],
+        "manuf": [
+            2021,
+            8,
+            25
+        ]
+    },
+    "12235": {
+        "name": "white meat",
+        "price": 190,
+        "quantity": 20,
+        "exp": [
+            2021,
+            9,
+            9
+        ],
+        "manuf": [
+            2021,
+            8,
+            29
+        ]
+    },
+    "12236": {
+        "name": "Dark Chocolate",
+        "price": 100,
+        "quantity": 60,
+        "exp": [
+            2022,
+            1,
+            9
+        ],
+        "manuf": [
+            2021,
+            8,
+            30
+        ]
+    },
+    "12237": {
+        "name": "Homemade Chocolate",
+        "price": 80,
+        "quantity": 40,
+        "exp": [
+            2022,
+            2,
+            9
+        ],
+        "manuf": [
+            2021,
+            8,
+            9
+        ]
+    },
+    "12238": {
+        "name": "pencil",
+        "price": 10,
+        "exp": [
+            2022,
+            2,
+            2
+        ],
+        "manuf": [
+            2020,
+            3,
+            19
+        ],
+        "quantity": 10
+    }
+}
